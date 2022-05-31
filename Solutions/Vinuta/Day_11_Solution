@@ -1,0 +1,15 @@
+                Age     <18        <=60          -       <=60          <=45                 -      
+   Years of service       -           -       <=30       <=30             -         <=15 & >30         
+Additional holidays       5           5	         5	    5             2                  2	           
+     Extra holidays       -           3          -          3             -		                                
+     Total holidays    22+5      22+5+3	      22+5	   22+5+3       22+2              22+2	              
+
+Test Cases :
+a. Employees younger than 18 years receive 5 additional holidays along with 22 days paid leave
+b. Employees who are at least 60 years or more, receive 5 additional holidays & 3 extra holidays along with 22 days paid leave
+c. Employees with at least 30 years of service or more, receive 5 additional holidays along with 22 days paid leave
+d. Employees who are 60+ years of age & served 30 years in the company, receive 5 additional + 3 extra holidays along with 22 days paid leave
+e. Employees with years of service at least 15 & less than 30 years will receve 2 extra holidays along with 22 days paid leave
+f. Employess who are at least 45 years or more but less than 60, receive 2 extra holidays along with 22 days paid leave
+g. Employess who do not fall under any of these categories, receive 22 days paid leave
+
